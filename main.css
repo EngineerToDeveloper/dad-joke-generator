@@ -1,0 +1,14 @@
+.card {
+    width: 450px;
+}
+
+.btn-primary {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+    .card {
+        width: 100%;
+    }
+}
